@@ -12,7 +12,8 @@ pids
 *.pid.lock
 
 # Webpack
-dist
+# Commented out in the `deploy` branch:
+# dist
 
 # Babel
 lib
